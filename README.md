@@ -5,7 +5,7 @@ DJ自動化に関する論文のサーベイです．
   
 keywords: MIR(Music Information Retrieval), beat detection, AI DJ, automatic DJ, auto mixing, Chroma vector, MFCC, 人工知能DJ, Machine Learning, Deep Learning, CNN, signal processing, ethnography
 
-## Papers
+## [Papers](https://github.com/tatsuya-takahashi/automatic-dj-system-survey/issues)
 - 読んだ論文は，全て[Issues](https://github.com/tatsuya-takahashi/automatic-dj-system-survey/issues)にまとめてあります．  
 https://github.com/tatsuya-takahashi/automatic-dj-system-survey/issues
 
