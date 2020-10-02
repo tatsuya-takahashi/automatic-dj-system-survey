@@ -7,7 +7,6 @@ keywords: MIR(Music Information Retrieval), beat detection, AI DJ, automatic DJ,
 
 ## [Papers](https://github.com/tatsuya-takahashi/automatic-dj-system-survey/issues)
 - 読んだ論文は，全て[Issues](https://github.com/tatsuya-takahashi/automatic-dj-system-survey/issues)にまとめてあります．  
-https://github.com/tatsuya-takahashi/automatic-dj-system-survey/issues
 
 ## 追試・実験
-- 論文の追試や実験は， experiment以下に論文タイトルでフォルダを作成し，主にノートブック形式でおこないます．
+- 論文の追試や実験は， [experiment](https://github.com/tatsuya-takahashi/automatic-dj-system-survey/tree/master/experiment)以下に論文タイトルでフォルダを作成し，主にノートブック形式でおこないます．
